@@ -6,6 +6,7 @@ This is another documentation repo, just for test
 - two 
 - three
 - four
+- [link](./linked.md)
 
 **another text**
 
