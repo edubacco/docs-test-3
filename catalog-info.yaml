@@ -4,6 +4,7 @@ metadata:
   name: docs-test-3
   annotations:
     github.com/project-slug: edubacco/docs-test-3
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
