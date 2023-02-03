@@ -1,0 +1,4 @@
+site_name: 'docs-test-edu title'
+
+nav:
+  - Home: index.md
